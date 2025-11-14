@@ -1,16 +1,68 @@
-## Hi there 👋
+# 👋 Hey, I'm Chamberlain
 
-<!--
-**D-rank-developer/D-rank-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dumanyie-chamberlain-97b05619)
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile: A space where networking, cybersecurity, and cloud engineering come together 🌍⚡  
+I’m transitioning from **network engineering** into **cybersecurity and cloud security**, with a growing interest in AI’s role in modern security systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **B.Eng Computer Engineering — Covenant University**  
+🎓 **MSc Cybersecurity — University of Roehampton (ongoing)**
+
+---
+
+## 🎯 Objective  
+To secure the infrastructure that houses data in the cloud—building resilient, scalable, and secure systems across AWS, Azure, and hybrid environments.
+
+---
+
+## 🛡️ Skills & Security Domains  
+Each skill area will link to its corresponding project repositories (placeholders added — replace with actual repo URLs).
+
+| Skill Area | Project Repositories |
+|-----------|----------------------|
+| **Cyber Risk Management** | [View Projects](#) |
+| **Network Security** | [View Projects](#) |
+| **Computer & Operating Systems Security** | [View Projects](#) |
+| **Cloud Security** | [View Projects](#) |
+| **AI Security** | [View Projects](#) |
+
+---
+
+## 🧰 Tools & Environments
+
+### 🌐 Networking
+- Cisco Packet Tracer
+
+### ☁️ Cloud Platforms
+- Amazon Web Services (AWS)  
+- Microsoft Azure
+
+### 🖥️ Operating Systems
+- Ubuntu  
+- Parrot OS  
+- Kali Linux  
+
+---
+
+## 🧩 Capture the Flag (CTF) Projects  
+*(Space reserved for upcoming challenge write-ups and walk-throughs.)*
+
+---
+
+## 🚀 What I'm Working On  
+- Cloud security labs across AWS & Azure  
+- Network and OS security hardening  
+- AI-assisted security monitoring  
+- Building structured repos for each cybersecurity domain
+
+---
+
+## 🤝 Connect & Collaborate with me.
+
+[![Email](https://img.shields.io/badge/Email-DumanyieChamberlain-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dumanyiechamberlain@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DumanyieChamberlain-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dumanyie-chamberlain-97b05619)
+
+
+---
+
+✨ *Secure the system. Strengthen the cloud. Protect the future.*  
