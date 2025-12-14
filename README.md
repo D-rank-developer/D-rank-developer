@@ -20,7 +20,7 @@ Each skill area will link to its corresponding project repositories (placeholder
 
 | Skill Area | Project Repositories |
 |-----------|----------------------|
-| **Cyber Risk Management** | [View Projects](#) |
+| **Cyber Risk Management** | [View Projects](https://github.com/D-rank-developer/Computer-and-Operating-Systems-Security.git) |
 | **Network Security** | [View Projects](#) |
 | **Computer & Operating Systems Security** | [View Projects](#) |
 | **Cloud Security** | [View Projects](#) |
