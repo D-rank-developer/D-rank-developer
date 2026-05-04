@@ -26,7 +26,7 @@ Each skill area will link to its corresponding project repositories (placeholder
 | **Cloud Security** | [View Projects](#) |
 | **AI Security** | [View Projects](https://github.com/D-rank-developer/Catnip-Siem.git) |
 | **Digital Forensics** | [View Projects](https://github.com/D-rank-developer/Digital-Forensics.git) |
-| **Security Testing** | [View Projects](#) |
+| **Security Testing** | [View Projects](https://github.com/D-rank-developer/Masie-Web-application-pentest-report.git) |
 
 ---
 
