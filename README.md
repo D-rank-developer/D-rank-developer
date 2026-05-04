@@ -24,7 +24,7 @@ Each skill area will link to its corresponding project repositories (placeholder
 | **Network Security** | [View Projects](https://github.com/D-rank-developer/Network-Security-Practices.git) |
 | **Computer & Operating Systems Security** | [View Projects](https://github.com/D-rank-developer/Computer-and-Operating-Systems-Security.git) |
 | **Cloud Security** | [View Projects](#) |
-| **AI Security** | [View Projects](#) |
+| **AI Security** | [View Projects](https://github.com/D-rank-developer/AI-SIEM-tool-built-ontop-of-graylog.git) |
 | **Digital Forensics** | [View Projects](#) |
 | **Security Testing** | [View Projects](#) |
 
